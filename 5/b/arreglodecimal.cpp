@@ -8,7 +8,7 @@
 using namespace std;
 
 int main(int argc, char *argv[]) {
-	float numeros[] = {1, 10.5, 3, 20.6}, suma = 0;
+	float numeros[] = {1.75, 10.5, 3, 20.6}, suma = 0;
 	
 	for(int i = 0; i < 4; i++){
 		printf("%.2f\n", numeros[i]);
